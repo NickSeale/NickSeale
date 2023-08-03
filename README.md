@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
-<p>I studied mechanical engineering in school but am working on a transition to more software focused roles. Feel free to reach out for all things computers!</p>
+<p>I am a mechanical engineer by trade but am working on a transition to more software focused roles. Feel free to reach out for all things computers!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
