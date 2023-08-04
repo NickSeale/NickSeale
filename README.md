@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
-<p>I am a bilingual Queen’s University graduate with a Master’s degree in Mechanical Engineering, proven strong analytical skills, and a solution-oriented approach. I made the transition to software engineering by using the skills developed during my Master's degree, a recent 400-hour intensive project-based coding program at BrainStation and self-study. I am passionate about increasing sustainability through the use of mechatronics and am seeking a full-time position that would leverage my technical engineering skills. Feel free to reach out about all things computers!</p>
+<p>I am a bilingual Queen’s University graduate with a Master’s degree in Mechanical Engineering, proven strong analytical skills, and a solution-oriented approach. I made the transition to software engineering by using the skills developed during my Master's degree, a recent 400-hour intensive project-based coding program at BrainStation and self-study. I am passionate about increasing sustainability through the use of mechatronics and am seeking a full-time position that would leverage my technical engineering skills. My github features a project completed in conjunction with Electronic Arts, some fun side projects and some code written during my engineering studies. Feel free to reach out about all things computers!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
